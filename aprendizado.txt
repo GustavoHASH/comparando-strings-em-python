@@ -1,0 +1,2 @@
+testando aplicações para o método split em python
+e entendendo como usar dicionários
